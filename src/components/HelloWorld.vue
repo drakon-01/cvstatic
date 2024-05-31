@@ -1,6 +1,12 @@
 <template>
+  <header>header</header>
+  <section>
+    Home
+  </section>
+  <footer>fotterr</footer>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>{{ msg }} adasdasd</h1>
+    <p>Hola Lu</p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
